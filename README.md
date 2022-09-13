@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @niti2709
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently Tableau
+- 👋 Hi, I’m Niti Srivastava 
+- 👀 I’m a Mainframe Developer , interested in learning new technologies for professional growth. 
+- 🌱 I have interest in Python , SQL, and Data Visualisations. I am looking for opportunities where I can apply my current knowledge along with learning something new and exciting. 
 - 📫 Reach me on neeti.srivastava920@gmail.com 
 
 <!---
